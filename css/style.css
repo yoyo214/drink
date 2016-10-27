@@ -1,0 +1,129 @@
+*{margin:0;padding:0;}
+.clear:after{content:"200B";display:block; font-size:0; height:0; clear:both;}
+.clear{*zoom:1;}
+ul{list-style:none;}
+img{border:none;}
+body{font-family:"微软雅黑";font-size:14px;color:#5d413c;}
+a{text-decoration:none;}
+.inner{width:1200px;margin:0 auto;}
+.header{height:111px;background: url(../images/drink_04.png) repeat;  }
+.logo{float:left;}
+.you{float:right;}
+ .you .nav li{display:inline-block;margin-left:80px;}
+ .you .nav li a{color:#42211b}
+.left li{margin-left:0;}
+.bian{background: url(../images/bian_09.gif) repeat;height:13px;}
+.main{background: url(../images/xian_02.png) no-repeat; height:2522px;}
+.m1{padding:20px;height:720px;box-sizing: border-box;position:relative;}
+.m1 .pic{float:left;}
+.m1  ul{float:left;border: none}
+.m1 .nav{float:left;width:736px;}
+.m1 .nav li a{border: none}
+.m1 .nav-tabs{border:none;}
+.m1 .nav li{display: inline-block;margin-left:13px;}
+.m1 .nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus{border-color: transparent;}
+.duan{width:500px;margin-left:300px;}
+.m1 .tu img{margin-left:5px; }
+.m1 .zi{font-size:16px;}
+.dan{position:absolute;bottom:10%;right:10%;}
+.m2{padding-top:20px;height:475px;box-sizing: border-box;}
+.m2 .m2_y{float:left;width:720px;}
+.m2 .y1{margin-bottom:30px;}
+.m3{position:relative;padding:80px;box-sizing: border-box;}
+.m3 .pic{position:absolute;top:40px;left:68px;margin-bottom:5px;}
+.y1 .tu{float:left;-webkit-border-image:url(../images/kuanggai_03.png) 30 30 round; /* Safari 5 */
+
+    border-image:url(../images/kuanggai_03.png) 30 30 round; }
+.y1 .zi{float:left;margin-left:20px;margin-top:20px;}
+.m4{padding:20px;}
+.m4 .pic{float:left;}
+.m4 .ditu{float:left;margin-left:50px;text-align:center}
+.m4 .ditu .pic{margin:10px 0 }
+.footer{padding-top:20px;}
+.footer .foot1{float:left;}
+.footer dl{float:left;width:123px;}
+.footer dt{margin-bottom:30px;}
+.footer dd{line-height:24px;}
+.foot2 {float:left;margin-left:150px;}
+.foot2 .er{float:left;margin-right:30px;}
+
+.foot2 .qq{float:left;}
+.foot2 p{line-height:24px;}
+.foot2 .qq i{margin-right:10px;font-size:20px;}
+.foot2 .xia{line-height:30px;}
+
+/* 轮播广告 */
+
+.carousel {
+
+    margin-bottom: 60px;
+}
+
+.carousel .item {
+
+}
+
+.carousel .item img {
+    width: 100%;
+    height:600px;
+}
+
+.carousel-caption {
+    z-index: 10;
+}
+
+
+
+.g-main{background: url(../images/quan_03.png) no-repeat right 0 bottom 0 ; height:1314px;padding:80px;box-sizing: border-box;margin-top:20px;}
+.g-banner .g-1{float:left;}
+.g-banner .g-2{float:right;}
+.gm1{float:left;}
+.gm1 li{margin:30px 0;}
+.gm2{float:right;width:900px;padding-left:100px;box-sizing: border-box;}
+.gm2 dd{line-height:24px;}
+.gm2  dl{margin:50px 0;}
+.gm2 h5{margin:10px 0;color:#6fbb38;}
+.gm2 p{margin:10px 0;}
+
+/*.gm2 p{margin:50px 0;}*/
+.g-main .nav-tabs{border:none;}
+.g-main .nav-tabs li a{border: none}
+.g-main .nav-tabs li{float:none;}
+.zuotu{float:left}
+.zuoyou{margin:30px 0;}
+
+
+
+
+
+
+.c-banner .c-1{float:left;}
+.c-banner .c-2{float:right;}
+.c_tu{width:700px;}
+.c_tu img{margin:20px;width:185px;height:310px;}
+
+.j-main{background: url(../images/ey_02.png) no-repeat right 0 top 0;height:2089px;margin-top:20px;padding:80px 0 0 80px}
+.jm1{float:left;}
+.jm1 li{margin:30px 0;}
+.jm2{float:right;}
+.jm2 img{margin:30px 0;}
+.j2{margin:280px 0 0 300px;padding-top:80px;}
+.j2 .tu{float:left;margin-right:20px;}
+.j2 .zi{float:left;}
+.j2_tuwen{margin:80px 0;}
+
+.xin-main{background:url(../images/zao_03.png) no-repeat right 0 top 0;height:2479px;margin-top:20px;padding:80px 0 0 80px}
+.xm1{float:left;}
+.xm1 li{margin:30px 0;}
+.xm2{float:right;line-height:36px;}
+.x2{margin:200px 0 0 300px;}
+.x3{margin:300px 0 0 500px;}
+.x4{margin:300px 0 0 300px;}
+
+.w-main{background:url(../images/yaoyong_03.png) no-repeat right 0 top 0;height:1753px;margin-top:20px;padding:80px 0 0 200px}
+.w1{padding:30px 0 0 200px;}
+.w1 .youxian{line-height:50px;width:800px;position:relative;}
+.youxian .xian{width:800px;height:1px;background:#69b92e}
+.youxian1{background:url(../images/3w_07.png) no-repeat right 0 bottom 0 }
+.ding{width:80px;height:80px;border-radius: 80px;position:absolute;right:0;top:10px;background:#eeeeee;text-align:center;}
+.ding i{color:#42211b;font-size:50px;line-height: 80px;}
